@@ -1,2 +1,3 @@
 Comandos de GIT
 git config --list
+git clone
